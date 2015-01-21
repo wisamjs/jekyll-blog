@@ -10,7 +10,7 @@ relative_permalinks: true
 
 # Setup
 title:               Wisam Zaghal
-tagline:             'Journey of a Programmer'
+tagline:             'Something Clever'
 description:         'Cras mattis consectetur purus sit amet fermentum. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Made by <a href="https://twitter.com/_wzaghal" target="_blank">@_wzaghal</a>.'
 url:                 http://lanyon.getpoole.com
 baseurl:             /
